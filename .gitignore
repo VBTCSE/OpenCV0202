@@ -8,7 +8,7 @@
 
 # Enable the following lines after the initial staging.
 
-*.sln
-*.suo
-*.vcxproj*
+#*.sln
+#*.suo
+#*.vcxproj*
 
